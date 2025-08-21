@@ -14,7 +14,7 @@ It uses the OpenWeatherMap API to fetch and display real-time weather informatio
 ---
 
 ## 🖼️ Demo
-👉 [Live Demo](https://MrWesci.github.io/weather-app/)
+👉 [Live Demo](https://mrwesci.github.io/weather-app/)
 
   <img width="613" height="733" alt="Screenshot 2025-08-20 052951" src="https://github.com/user-attachments/assets/44e5a9d7-ea19-4b3e-b562-c75d26d17c1d" />
 
